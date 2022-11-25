@@ -4,7 +4,8 @@
 
 
 ## spectral_residual.ipynb
-[https://arxiv.org/abs/2012.07245](https://arxiv.org/abs/2012.07245)の再現実装を行ったnotebook。
+[https://arxiv.org/abs/2012.07245](https://arxiv.org/abs/2012.07245)の再現実装を行ったnotebook。  
+予測まで行えるようにはしたが、学習を進めていくとすべての銘柄に対しての予測値が同じになるようになってしまい、本コンペのデータではうまく機能しなかった。
 
 ## jpx-lightgbm-ranking-learning-final-sub.ipynb
 LightGBMを用いたランキング学習による予測モデル。  
